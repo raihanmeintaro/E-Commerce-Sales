@@ -16,7 +16,7 @@ This project is part of a **Data Analysis submission**, focusing on sales trends
 - **Python**
 - **Streamlit**
 - **Pandas**
-- **Matplotlib / Seaborn / Plotly** (if used)
+- **Matplotlib & Seaborn** 
 
 ---
 
