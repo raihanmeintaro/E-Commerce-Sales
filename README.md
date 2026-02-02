@@ -27,6 +27,8 @@ This project is part of a **Data Analysis submission**, focusing on sales trends
    git clone https://github.com/raihanmeintaro/E-Commerce-Sales.git
    cd E-Commerce-Sales/Dashboard
 2. Install Dependencies
+   ```bash
    pip install -r requirements.txt
-3. Run Streamlit App
+4. Run Streamlit App
+   ```bash
    streamlit run dashboard.py
