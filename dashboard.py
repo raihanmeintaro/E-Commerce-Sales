@@ -55,7 +55,7 @@ def create_rfm_df(df):
    return rfm_df
 
 # Load data
-all_df = pd.read_csv('Dashboard/all_df.csv')
+all_df = pd.read_csv('all_df.csv')
 
 # Streamlit App
 st.set_page_config(layout="wide")
