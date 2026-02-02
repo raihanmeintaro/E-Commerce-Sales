@@ -33,7 +33,9 @@ This project is part of a **Data Analysis submission**, focusing on sales trends
    ```bash
    streamlit run dashboard.py
 
-📌 Notes
+---
+
+##📌 Notes
 - The dashboard uses a preprocessed dataset (all_df.csv)
 - Raw datasets are stored in the Data/ folder
 - This project is intended for educational and analysis purposes
